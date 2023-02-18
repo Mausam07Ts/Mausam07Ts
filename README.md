@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Mausam Jadhav
-- 👀 I’m interested in Data Science and Bussiness analytics
-- 🌱 I’m currently learning Data Science and solving assignments given by my coaching institute.
+- 👀 Masters graduate in Bussiness analytics from Dublin Business School
+- 🌱 Completed Short term Data Science course work from ExcelR Solutions.
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
