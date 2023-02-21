@@ -1,8 +1,8 @@
 - 👋 Hi, I’m Mausam Jadhav
-- 👀 Masters graduate in Bussiness analytics from Dublin Business School
-- 🌱 Completed Short term Data Science course work from ExcelR Solutions.
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 👀 Currently searching for job roles suitable to my profile.
+- 🌱
+- 💞️ I’m looking to collaborate on anything exciting.
+- 📫 How to reach me   mausamjadhav6040@gmail.com
 
 <!---
 Mausam07Ts/Mausam07Ts is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
