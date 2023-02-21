@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Mausam Jadhav
 - 👀 Currently searching for job roles suitable to my profile.
-- 🌱Ask me about Python, BLDC Motors or renewable energy.
+- 🌱Ask me anything about python, BLDC Motors or renewable energy.
 - 💞️ I’m looking to collaborate on anything exciting.
 - 📫 How to reach me   mausamjadhav6040@gmail.com
 
